@@ -103,4 +103,12 @@ h2 {
     left: 15px;
     margin-right: 0px;
   }
+  .open-source {
+    position: relative;
+    left: 425px;
+    top: 15px;
+    font-size: 13px;
+    margin: 2px auto;
+    display: inline;
+  }
   
